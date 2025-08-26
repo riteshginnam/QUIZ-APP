@@ -454,6 +454,96 @@
 
     ]
 
-  }
+  },
 
+  {
+
+    "title": "Cricket Quiz",
+
+    "questions": [
+
+      {
+
+        "text": "Who is known as the God of Cricket?",
+
+        "options": [
+
+          { "text": "Virat Kohli", "isCorrect": false },
+
+          { "text": "Sachin Tendulkar", "isCorrect": true },
+
+          { "text": "Brian Lara", "isCorrect": false }
+
+        ]
+
+      },
+
+      {
+
+        "text": "In which year did India win its first Cricket World Cup?",
+
+        "options": [
+
+          { "text": "1983", "isCorrect": true },
+
+          { "text": "1985", "isCorrect": false },
+
+          { "text": "1990", "isCorrect": false }
+
+        ]
+
+      },
+
+      {
+
+        "text": "Which bowler has taken the most wickets in Test cricket?",
+
+        "options": [
+
+          { "text": "Anil Kumble", "isCorrect": false },
+
+          { "text": "James Anderson", "isCorrect": false },
+
+          { "text": "Muttiah Muralitharan", "isCorrect": true }
+
+        ]
+
+      },
+
+      {
+
+        "text": "How many players are there in a cricket team (on-field)?",
+
+        "options": [
+
+          { "text": "13", "isCorrect": false },
+
+          { "text": "11", "isCorrect": true },
+
+          { "text": "10", "isCorrect": false }
+
+        ]
+
+      },
+
+      {
+
+        "text": "Who was the captain of the Indian team during the 2011 ICC World Cup victory?",
+
+        "options": [
+
+          { "text": "MS Dhoni", "isCorrect": true },
+
+          { "text": "Sourav Ganguly", "isCorrect": false },
+
+          { "text": "Rahul Dravid", "isCorrect": false }
+
+        ]
+
+      }
+
+    ]
+
+  }
 ]
+
